@@ -20,7 +20,9 @@ Scrollable Chat History: Allows users to scroll through past messages.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/malshisathsarani/ChatBot_UI/commit/c568d05b16ff1cf01bbca0bcaecc5b17db3018bc)
+
+![App Screenshot](https://github.com/malshisathsarani/ChatBot_UI/raw/main/chatbotSS/WhatsApp%20Image%202024-07-25%20at%2008.36.45.jpeg)
+
 
 
 
