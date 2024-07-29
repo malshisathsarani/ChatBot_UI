@@ -5,6 +5,15 @@
 This repository contains the source code for a Flutter app UI project. The main goal of this project is to demonstrate various UI components and their integration within a Flutter application.
 
 
+## Badges
+
+![Static Badge](https://img.shields.io/badge/bestPASS-green) 
+
+![Static Badge](https://img.shields.io/badge/flutter-blue?logo=flutter&labelColor=blue&color=blue)
+
+![Static Badge](https://img.shields.io/badge/github-blue?logo=github&labelColor=black&color=blue)
+
+
 ## Authors
 
 - [@malshisathsarani](https://github.com/malshisathsarani)
@@ -32,25 +41,6 @@ Contributions are always welcome!
 
 Please open an issue or submit a pull request for any improvements or suggestions.
 
-## Roadmap
-
-lib/
-├── main.dart
-├── UI.dart
-├── widgets/
-│   ├── chat_bubble.dart
-│   ├── input_field.dart
-│   └── typing_indicator.dart
-└── models/
-    └── message_model.dart
 
 
-
-## Badges
-
-![Static Badge](https://img.shields.io/badge/bestPASS-green) 
-
-![Static Badge](https://img.shields.io/badge/flutter-blue?logo=flutter&labelColor=blue&color=blue)
-
-![Static Badge](https://img.shields.io/badge/github-blue?logo=github&labelColor=black&color=blue)
 
