@@ -1,16 +1,54 @@
-# app
 
-A new Flutter project.
+# Flutter App UI
 
-## Getting Started
+# Overview
+This repository contains the source code for a Flutter app UI project. The main goal of this project is to demonstrate various UI components and their integration within a Flutter application.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [@malshisathsarani](https://github.com/malshisathsarani)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+Responsive Design: Adapts to various screen sizes and orientations.
+Custom Chat Bubbles: Visually appealing chat bubbles for user and bot messages.
+Smooth Animations: Transitions and animations for a better user experience.
+Input Options: Text input, quick replies, and multimedia inputs.
+Scrollable Chat History: Allows users to scroll through past messages.
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/malshisathsarani/ChatBot_UI/commit/c568d05b16ff1cf01bbca0bcaecc5b17db3018bc)
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Please open an issue or submit a pull request for any improvements or suggestions.
+
+## Roadmap
+
+lib/
+├── main.dart
+├── UI.dart
+├── widgets/
+│   ├── chat_bubble.dart
+│   ├── input_field.dart
+│   └── typing_indicator.dart
+└── models/
+    └── message_model.dart
+
+
+
+## Badges
+
+![Static Badge](https://img.shields.io/badge/bestPASS-green) 
+
+![Static Badge](https://img.shields.io/badge/flutter-blue?logo=flutter&labelColor=blue&color=blue)
+
+![Static Badge](https://img.shields.io/badge/github-blue?logo=github&labelColor=black&color=blue)
+
